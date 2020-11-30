@@ -44,20 +44,25 @@ sudo apt install net-tools
 如图，在虚拟机中ping该地址，可以产生如图的效果，表示已经ping通
 
 ![8](https://github.com/shuai6cloud/shuai6cloud/blob/main/mysite/picture/8.jpg)
+
 四、开通http server 服务
 
 输入python3 -m http.server –-directory /root 8000 , 可以产生如图效果
 
 ![9](https://github.com/shuai6cloud/shuai6cloud/blob/main/mysite/picture/9.jpg)
+
 输入sudo apt install git
 
 ![10](https://github.com/shuai6cloud/shuai6cloud/blob/main/mysite/picture/10.jpg)
+
 git安装完毕，输入克隆用的代码
 
 ![11](https://github.com/shuai6cloud/shuai6cloud/blob/main/mysite/picture/11.jpg)
+
 开通http server
 
 ![12](https://github.com/shuai6cloud/shuai6cloud/blob/main/mysite/picture/12.jpg)
+
 在浏览器中打开127.0.0.1,可得如下网页
 
 ![13](https://github.com/shuai6cloud/shuai6cloud/blob/main/mysite/picture/13.jpg)
