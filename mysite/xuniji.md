@@ -5,9 +5,13 @@
 一、安装Ubuntu系统
 
 1.	从设置——系统与安全——恢复——高级启动模式——疑难解答——UEFI固件设置——重启——打开虚拟化
-![1](picture/1.jpg)
+
+![1](https://github.com/shuai6cloud/shuai6cloud/blob/main/mysite/picture/1.jpg)
+
 ![2](picture/2.jpg)
+
 ![3](picture/3.jpg)
+
 2.	下载Ubuntu20.04
 3.	在虚拟机存储中添加光驱，光驱为操作系统的iso文件
 4.	启动虚拟机
