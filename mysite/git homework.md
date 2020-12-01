@@ -9,6 +9,8 @@
 
 如图，进行git，sqlite3，python的环境变量配置，在path处加入git-core，sqlite和python的scripts
 
+![1](https://github.com/shuai6cloud/shuai6cloud/blob/main/mysite/images/1.png)
+
 配置完毕后检验能否运行
 
 进行账户（global-user）的设置
@@ -24,6 +26,8 @@
 用python manage.py startapp polls和python manage.py startapp news2创建这两个项目
 
 利用sqlite3进行包含文件的查看：
+
+![2](https://github.com/shuai6cloud/shuai6cloud/blob/main/mysite/images/2.png)
 
 sqlite3——.open db.sqlite3——.tables
 
@@ -59,6 +63,8 @@ git push
 
 结果如下图所示
 
+![3](https://github.com/shuai6cloud/shuai6cloud/blob/main/mysite/images/3.png)
+
 在vscode中按ctrl+c退出
 
 四、进行第二个网站的编辑
@@ -70,6 +76,8 @@ add-commit-push 三步,上传github
 输入http://localhost:8000/news2/hw/create/
 
 结果如下图所示
+
+![4](https://github.com/shuai6cloud/shuai6cloud/blob/main/mysite/images/4.png)
 
 注：在操作过程中由于电脑和设置的问题还出现了一些错误，但是在上网搜索和向老师提问后都得到解决，因此在实验报告上没有体现。
 
