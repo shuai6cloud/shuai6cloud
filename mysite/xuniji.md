@@ -6,9 +6,9 @@
 
 1.	从设置——系统与安全——恢复——高级启动模式——疑难解答——UEFI固件设置——重启——打开虚拟化
 
-![1](https://github.com/shuai6cloud/shuai6cloud/blob/main/mysite/picture/1.jpg)
+![1](https://raw.githubusercontent.com/shuai6cloud/shuai6cloud/main/mysite/picture/1.jpg)
 
-![2](https://github.com/shuai6cloud/shuai6cloud/blob/main/mysite/picture/2.jpg)
+![2][(https://raw.githubusercontent.com/shuai6cloud/shuai6cloud/main/mysite/picture/2.jpg)
 
 ![3](https://github.com/shuai6cloud/shuai6cloud/blob/main/mysite/picture/3.jpg)
 
