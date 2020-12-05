@@ -8,7 +8,7 @@
 
 ![1](https://raw.githubusercontent.com/shuai6cloud/shuai6cloud/main/mysite/picture/1.jpg)
 
-![2][(https://raw.githubusercontent.com/shuai6cloud/shuai6cloud/main/mysite/picture/2.jpg)
+![2](https://raw.githubusercontent.com/shuai6cloud/shuai6cloud/main/mysite/picture/2.jpg)
 
 ![3](https://github.com/shuai6cloud/shuai6cloud/blob/main/mysite/picture/3.jpg)
 
